@@ -11,5 +11,4 @@ public class PookApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PookApplication.class, args);
 	}
-
 }
